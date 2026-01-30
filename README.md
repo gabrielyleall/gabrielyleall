@@ -25,63 +25,51 @@
 
 <h3>🍇 Linguagens em aprendizagem</h3>
 
-<table>
+<br>
+
+<table width="100%">
   <tr>
     <!-- Card: Atualmente -->
-    <td
-      style="
+    <td width="50%" align="center">
+      <div style="
         border: 1px solid #7c3aed;
         border-radius: 12px;
         padding: 20px;
-        text-align: center;
-        width: 50%;
         background-color: #0f0f1a;
-      "
-    >
-      <strong style="color: #c4b5fd;">Atualmente</strong>
-      <br><br>
-      <img
-        src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
-        alt="Java"
-        height="80"
-      />
-    </td>
+      ">
+        <strong style="color: #c4b5fd;">Atualmente</strong>
+        <br><br>
+        <img
+          src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
+          alt="Java"
+          height="80"
+        />
+      </div>
+  
+  </td>
 
     <!-- Card: Próximas linguagens -->
-    <td
-      style="
+    <td width="50%" align="center">
+      <div style="
         border: 1px solid #7c3aed;
         border-radius: 12px;
         padding: 20px;
-        width: 50%;
         background-color: #0f0f1a;
-      "
-    >
-      <strong style="color: #c4b5fd;">Próximas linguagens</strong>
-      <br><br>
+      ">
+        <strong style="color: #c4b5fd;">Próximas linguagens</strong>
+        <br><br>
 
-      <img
-        src="https://profilinator.rishav.dev/skills-assets/python-original.svg"
-        alt="Python"
-        height="35"
-      />
-      &nbsp; Python
-      <br><br>
+        <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="35" />
+Python
+<br><br>
 
-      <img
-        src="https://profilinator.rishav.dev/skills-assets/html5-original.svg"
-        alt="HTML"
-        height="35"
-      />
-      &nbsp; HTML
-      <br><br>
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original.svg" height="35" />
+HTML
+<br><br>
 
-      <img
-        src="https://profilinator.rishav.dev/skills-assets/css3-original.svg"
-        alt="CSS"
-        height="35"
-      />
-      &nbsp; CSS
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original.svg" height="35" />
+CSS
+      </div>
     </td>
   </tr>
 </table>
