@@ -25,11 +25,24 @@
 
 <h3>🍇 Linguagens em aprendizagem</h3>
 
-<div style="padding: 10px 0;">
-  <strong>Atualmente:</strong><br><br>
-  <img
-    src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
-    alt="Java"
-    height="55"
-  />
-</div>
+<table>
+  <tr>
+    <!-- Linguagem atual -->
+    <td style="padding-right: 40px; vertical-align: top;">
+      <strong>Atualmente:</strong><br><br>
+      <img
+        src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
+        alt="Java"
+        height="60"
+      />
+    </td>
+
+    <!-- Próximas linguagens -->
+    <td style="vertical-align: top;">
+      <strong>Próximas linguagens:</strong><br><br>
+      🐍 Python<br>
+      🌐 HTML<br>
+      🎨 CSS
+    </td>
+  </tr>
+</table>
