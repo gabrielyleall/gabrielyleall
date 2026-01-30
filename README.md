@@ -18,3 +18,18 @@
   style="max-width: 420px; width: 100%;"
   align="right"
 />
+
+<br clear="right" />
+
+##
+
+<h3>🍇 Linguagens em aprendizagem</h3>
+
+<div style="padding: 10px 0;">
+  <strong>Atualmente:</strong><br><br>
+  <img
+    src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
+    alt="Java"
+    height="55"
+  />
+</div>
