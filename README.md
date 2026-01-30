@@ -47,29 +47,3 @@
       </div>
   
   </td>
-
-    <!-- Card: Próximas linguagens -->
-    <td width="50%" align="center">
-      <div style="
-        border: 1px solid #7c3aed;
-        border-radius: 12px;
-        padding: 20px;
-        background-color: #0f0f1a;
-      ">
-        <strong style="color: #c4b5fd;">Próximas linguagens</strong>
-        <br><br>
-
-        <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="35" />
-Python
-<br><br>
-
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original.svg" height="35" />
-HTML
-<br><br>
-
-<img src="https://profilinator.rishav.dev/skills-assets/css3-original.svg" height="35" />
-CSS
-      </div>
-    </td>
-  </tr>
-</table>
