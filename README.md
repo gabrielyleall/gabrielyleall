@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=120&section=header" />
 
-# 🍇 ༺ I´m a teach Girl ༻ ☽
+# 🍇 ༺ I´m a student Girl ༻ ☽
 ---
 
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Estudante+de+Programa%C3%A7%C3%A3o%22%2C%22color%22%3A%22%23a139a2%22%2C%22fontSize%22%3A18%2C%22typingSpeed%22%3A0.14285714285714285%2C%22deleteSpeed%22%3A0.16666666666666666%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
